@@ -57,4 +57,4 @@ jobs:
             "./playwright-report/*" \
             "https://yusraplaywright.blob.core.windows.net/\$web/$REPORT_DIR"
 
-          echo "Report URL: https://<STORAGE_ACCOUNT_NAME>.z1.web.core.windows.net/$REPORT_DIR/index.html"
+          echo "Report URL: https://yusraplaywrigh.z1.web.core.windows.net/$REPORT_DIR/index.html"
